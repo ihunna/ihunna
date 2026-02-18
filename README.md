@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @ihunna
 -->
 - 👀 I’m a Fullstack Web Developer
-- 💞️ I’m looking to collaborate on any webdev projects in frontend and/or backend (python/php)
+- 💞️ I’m looking to collaborate on any webdev projects in frontend and/or backend (python/php,Javascript)
 <!--
 - 📫 ihunnaemmanuel@gmail.com
 -->
